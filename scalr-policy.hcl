@@ -1,6 +1,6 @@
 version = "v1"
 
-policy "restrict_modules" {
+policy "workspace_destroy" {
     enabled = true
     enforcement_level = "soft-mandatory"
 }
